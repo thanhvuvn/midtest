@@ -1,0 +1,140 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.main-box {
+  padding: 20px 100px;
+  width: 75%;
+  margin-left: 6%;
+}
+
+.h1-comblex-tagH1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-bottom: 20px;
+}
+
+.both-label2 {
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+
+.lb-pass {
+  margin-left: 500px;
+}
+
+.both-label {
+  display: flex;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.both-input {
+  display: flex;
+}
+
+.both2 {
+  font-size: 17px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.both-input-email {
+  width: 525px;
+}
+
+.both-input-pass {
+  margin-left: 10px;
+  width: 525px;
+}
+
+.address-input {
+  display: flex;
+  flex-direction: column;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.address-input-input {
+  font-size: 17px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 13px;
+  margin-bottom: 20px;
+  width: 1070px;
+}
+
+.city-Status-zip {
+  display: flex;
+  flex-direction: column;
+}
+
+.city-input {
+  font-size: 17px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 525px;
+  margin-top: 10px;
+}
+
+.State-input {
+  font-size: 17px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 330px;
+  margin-top: 10px;
+  margin-left: 8px;
+}
+
+.zip-input {
+  font-size: 17px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 178px;
+  margin-top: 10px;
+  margin-left: 8px;
+}
+
+.city-lb {
+  margin-right: 525px;
+}
+
+.State-lb {
+  margin-right: 300px;
+}
+
+.lb22 {
+  flex-direction: column;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.checkbox-btn {
+}
+.checkbox-btn-label {
+  margin-left: 525px;
+  margin-top: 20px;
+}
+.checkbox-btn-btn {
+  margin-left: 550px;
+  margin-top: 15px;
+}
+.btn-last {
+  font-size: 18px;
+  padding: 5px 9px;
+  color: #fff;
+  background-color: rgb(91, 72, 234);
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.btn-last:hover {
+  background-color: rgb(231, 82, 82);
+  cursor: pointer;
+}
